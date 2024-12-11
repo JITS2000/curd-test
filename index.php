@@ -16,7 +16,7 @@ include('dbconn.php');
                     <th>Email Id</th>
                     <th>Address</th>
                     <th>UPDATE</th>
-                    <th>DELETE-  </th>
+                    <th>DELETE</th>
                 </tr>
             </thead>
             <tbody>
